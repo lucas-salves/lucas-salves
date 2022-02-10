@@ -1,6 +1,6 @@
 Hi there 👋
 ======
-I'm Passionate about technology. Graduated in Systems Analysis and postgraduate in Cybersecurity at Cruzeiro do Sul University. I'm currently working in a cloth store with API integration.
+I'm Passionate about technology. Graduated in Systems Analysis and postgraduate in Cybersecurity at Cruzeiro do Sul University. I'm currently working in a cloth store with API integration. I'm currently focusing my efforts in the study of Design Patterns, Java EE, Python and non-relational databases like MongoDB.
 
 
 
