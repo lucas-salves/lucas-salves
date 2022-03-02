@@ -5,4 +5,5 @@ Passionate about Software Engineering and Design Patterns, I am delving into Com
 All my learning is being documented in this repository:
 https://github.com/lucas-salves/ultimateTil
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-salves&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-salves&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-salves&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-salves&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
