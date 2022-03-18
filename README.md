@@ -25,6 +25,4 @@ I'm currently focusing my efforts on Java and Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-salves&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=lucas-salves)
-
 </div>
