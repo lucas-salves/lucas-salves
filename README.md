@@ -1,6 +1,10 @@
 Hi there, I'm Lucas! 👋
 ======
 <div align="center">
+
+![ALT](https://c.tenor.com/E5BlSS88b4kAAAAM/doctor-who-dr-who.gif)
+
+
 Passionate about technology, graduated in Systems Analysis and Development, postgraduate in Cybersecurity, with 3 years of experience in IT support. I worked 5 months as Jr Java Developer and I'm looking for a new job.
 
 Passionate about Software Engineering and Design Patterns, I am delving into Complexity of Algorithms and Data Structure, construction and consumption of REST APIs with Java and Spring ecosystem, AWS services, automated tests with JUnit and messaging with RabbitMQ. My next goals are to learn about microservices and how critical systems work.
